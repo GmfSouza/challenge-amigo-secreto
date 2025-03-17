@@ -25,7 +25,7 @@ function atualizarLista(){
 }
 
 function sortearAmigo(){
-    if(listaDeAmigos.lenth <= 1){
+    if(listaDeAmigos.lenth === 1){
         alert("Insira pelo menos dois nomes antes de sortear.")
         return
     }
