@@ -8,15 +8,19 @@ Este é o projeto final desenvolvido em [inserir a linguagem ou tecnologia que e
 
 ## Funcionalidades
 
-- [Funcionalidade 1]
-- [Funcionalidade 2]
-- [Funcionalidade 3]
+- Adicionar nomes à lista de participantes
+
+- Validar entrada para evitar nomes vazios
+
+- Sortear aleatoriamente um participante
+
+- Exibir o resultado do sorteio na tela
   
 ## Tecnologias Utilizadas
 
-- [Tecnologia 1]
-- [Tecnologia 2]
-- [Tecnologia 3]
+- HTML: Estrutura da página
+- CSS: Estilização do layout
+- JavaScript: Lógica de funcionamento (adição de amigos e sorteios)
 
 ## Como Executar o Projeto
 
