@@ -1,6 +1,6 @@
 # Projeto Amigo Secreto
 
-Este é o projeto final desenvolvido em [inserir a linguagem ou tecnologia que está utilizando]. O projeto foi criado para [descrever o objetivo do projeto, por exemplo, aprender mais sobre desenvolvimento web, praticar o uso de uma tecnologia específica, etc.].
+Este é o projeto final desenvolvido em JavaScript de um site que sorteia nomes inseridos pelo usuário.
 
 ## Descrição
 
