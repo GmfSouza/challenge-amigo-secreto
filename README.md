@@ -25,11 +25,6 @@ Este é o projeto final desenvolvido em [inserir a linguagem ou tecnologia que e
    git clone [URL do repositório]
 Acesse o diretório do projeto:
 
-bash
-Copy
-Edit
 cd [diretório do projeto]
-Abra o arquivo index.html no seu navegador ou execute o servidor local:
+Abra o arquivo index.html no seu navegador ou execute o servidor local.
 
-Para usar um servidor local, você pode usar [descrição de como rodar o servidor, por exemplo, Live Server no VSCode].
-Como Contribuir
