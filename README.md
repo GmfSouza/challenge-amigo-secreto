@@ -1,45 +1,25 @@
-#Amigo-Secreto
+# Projeto Final
 
-Este projeto é uma aplicação simples para realizar sorteios de Amigo Secreto. Os usuários podem adicionar nomes a uma lista e sortear aleatoriamente um dos participantes.
+Este é o projeto final desenvolvido em [inserir a linguagem ou tecnologia que está utilizando]. O projeto foi criado para [descrever o objetivo do projeto, por exemplo, aprender mais sobre desenvolvimento web, praticar o uso de uma tecnologia específica, etc.].
 
-🚀 Funcionalidades
+## Descrição
 
-Adicionar nomes à lista de participantes
+[Uma descrição breve do projeto e o que ele faz.]
 
-Validar entrada para evitar nomes vazios
+## Funcionalidades
 
-Sortear aleatoriamente um participante
+- [Funcionalidade 1]
+- [Funcionalidade 2]
+- [Funcionalidade 3]
+  
+## Tecnologias Utilizadas
 
-Exibir o resultado do sorteio na tela
+- [Tecnologia 1]
+- [Tecnologia 2]
+- [Tecnologia 3]
 
-🛠️ Tecnologias Utilizadas
+## Como Executar o Projeto
 
-HTML: Estrutura da página
-
-CSS: Estilização do layout
-
-JavaScript: Lógica de funcionamento (adição de amigos e sorteio)
-
-📦 Como Executar o Projeto
-
-Clone este repositório:
-
-git clone https://github.com/seu-usuario/amigo-secreto.git
-
-Acesse a pasta do projeto:
-
-cd amigo-secreto
-
-Abra o arquivo index.html no navegador ou use uma extensão como Live Server no VS Code.
-
-📷 Captura de Tela
-
-(Inclua aqui uma imagem do projeto rodando, se possível)
-
-📌 Melhorias Futuras
-
-Permitir que os usuários removam nomes da lista
-
-Implementar um sistema para sortear todos os amigos secretos de uma vez
-
-Criar um design mais interativo com animações
+1. Clone o repositório para o seu computador:
+   ```bash
+   git clone [URL do repositório]
