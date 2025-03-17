@@ -1,4 +1,4 @@
-#🎁 Amigo Secreto
+#Amigo-Secreto
 
 Este projeto é uma aplicação simples para realizar sorteios de Amigo Secreto. Os usuários podem adicionar nomes a uma lista e sortear aleatoriamente um dos participantes.
 
