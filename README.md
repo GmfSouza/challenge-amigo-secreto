@@ -4,7 +4,7 @@ Este é o projeto final desenvolvido em [inserir a linguagem ou tecnologia que e
 
 ## Descrição
 
-[Uma descrição breve do projeto e o que ele faz.]
+Este projeto é uma aplicação simples para realizar sorteios de Amigo Secreto. Os usuários podem adicionar nomes a uma lista e sortear aleatoriamente um dos participantes.
 
 ## Funcionalidades
 
